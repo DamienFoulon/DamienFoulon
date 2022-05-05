@@ -7,7 +7,7 @@ A development passionate from France 🔵⚪🔴
 I have been learning the code for 7 years having started by creating game servers for me and my friends. Then, I quickly became interested in the operation and development of websites. So I learned to do it by following tutorials on the internet. I joined a STI2D Baccalaureate SIN option in 2018 at Gabriel Touchard High School Washington. I discovered electronics and arduino programming. I learned self-taught to make discord bots in nodeJS and I started to appreciate this language. Today, I am at the 3W Academy to strengthen my skills in web programming and obtain a RNCP grade level 5 (BAC+2). Currently, I am looking for an alternating position to validate this training.
 
 *   🌍  I'm based in Le Mans - France
-*   🖥️  See my portfolio at [Devausorus](http://devausorus.com)
+*   🖥️  See my portfolio at [Devausorus](http://damien.devausorus.com)
 *   ✉️  You can contact me at [foulon.damien.pro@gmail.com](mailto:foulon.damien.pro@gmail.com)
 *   🚀  I'm currently working on [Devausorus](http://devausorus.com)
 *   🧠  I'm learning React JS
