@@ -21,6 +21,7 @@ I have been learning the code for 7 years having started by creating game server
 ### Badges
 
 <b>My GitHub Stats</b>
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yaguaa" alt="willianrod&#39;s wakatime stats"></a></p>
 
 <a href="http://www.github.com/DamienFoulon"><img src="https://github-readme-stats.vercel.app/api?username=DamienFoulon&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DamienFoulon's GitHub stats" /></a>
 
