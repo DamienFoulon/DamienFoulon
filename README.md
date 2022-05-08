@@ -21,16 +21,16 @@ I have been learning the code for 7 years having started by creating game server
 ### Badges
 
 <b>My GitHub Stats</b>
-<p><a href="https://wakatime.com/@Yaguaa"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yaguaa" alt="willianrod&#39;s wakatime stats"></a></p>
+<p><a href="https://wakatime.com/@Yaguaa"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yaguaa&theme=graywhite" alt="Damien&#39;s wakatime stats"></a></p>
 
-<a href="http://www.github.com/DamienFoulon"><img src="https://github-readme-stats.vercel.app/api?username=DamienFoulon&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DamienFoulon's GitHub stats" /></a>
+<a href="http://www.github.com/DamienFoulon"><img src="https://github-readme-stats.vercel.app/api?username=DamienFoulon&show_icons=true&hide=&count_private=true&theme=graywhite" alt="DamienFoulon's GitHub stats" /></a>
 
-<a href="http://www.github.com/DamienFoulon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DamienFoulon&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/DamienFoulon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DamienFoulon&stroke=24292e&background=ffffff&ring=24292e&fire=24292e&currStreakNum=24292e&currStreakLabel=24292e&sideNums=24292e&sideLabels=24292e&dates=24292e&hide_border=true" /></a>
 
-<a href="http://www.github.com/DamienFoulon"><img src="https://activity-graph.herokuapp.com/graph?username=DamienFoulon&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/DamienFoulon"><img src="https://activity-graph.herokuapp.com/graph?username=DamienFoulon&bg_color=ffffff&color=24292e&line=474b50&point=767676&area_color=979ea7&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/DamienFoulon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamienFoulon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/DamienFoulon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamienFoulon&theme=graywhite&langs_count=10&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/DamienFoulon/website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DamienFoulon&repo=website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/DamienFoulon/website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DamienFoulon&repo=website&theme=graywhite&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
