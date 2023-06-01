@@ -48,7 +48,7 @@ J'ai commencé à apprendre la programmation il y a 7 ans, en commençant par la
 ### Badges
 
 <b>My GitHub Stats</b>
-<p><a href="https://wakatime.com/@Yaguaa"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yaguaa&langs_count=5&amp;&theme=graywhite" alt="Damien&#39;s wakatime stats"></a></p>
+<p><a href="https://wakatime.com/@DamienFoulon"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=DamienFoulon&langs_count=5&amp;&theme=graywhite" alt="Damien&#39;s wakatime stats"></a></p>
 
 <a href="https://github.com/DamienFoulon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamienFoulon&theme=graywhite&langs_count=10&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
