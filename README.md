@@ -11,6 +11,7 @@ FR :
 J'ai commencé à apprendre la programmation il y a 7 ans, en commençant par la réalisation de serveurs de jeux vidéo pour mes amis et moi. Ensuite, je me suis rapidement intéressé au fonctionnement et à la réalisation des sites web. J'ai donc appris à en faire en regardant des tutoriels sur intertent. En 2018, j'ai rejoint un baccalauréat STI2D Option SIN au lycée Gabriel Touchard Washington. Durant cette formation j'y ai appris la programmation ardu ino et l'électronique. J'ai appris en autodidacte à réaliser des bots discords en node Js, ce qui m'a fait apprécier le language. Aujourd'hui, je suis une formation de développeur web à la 3W Académie afin de renforcer mes compétences dans la programmation web et obtenir un diplôme RNCP de niveau 5 (BAC+2). Je suis actuellement à la recherche d'un poste en alternance afin de valider cette formation.
 
 *   🌍  I'm based in Le Mans - France
+*   🪪  Currently working for [Babaweb](https://www.babaweb.fr)
 *   🖥️  See my portfolio at [Devausorus](http://damien.devausorus.com)
 *   ✉️  You can contact me at [foulon.damien.pro@gmail.com](mailto:foulon.damien.pro@gmail.com)
 *   🚀  I'm currently working on [Devausorus](http://devausorus.com)
