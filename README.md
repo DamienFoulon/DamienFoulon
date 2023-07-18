@@ -12,7 +12,7 @@ J'ai commencé à apprendre la programmation il y a 7 ans, en commençant par la
 
 *   🌍  I'm based in Le Mans - France
 *   🪪  Currently working for [Babaweb](https://www.babaweb.fr)
-*   🖥️  See my portfolio at [Devausorus](http://damien.devausorus.com)
+*   🖥️  See my portfolio at [myworkspace](https://damienfoulon.myworkspace.fr)
 *   ✉️  You can contact me at [damien-foulon@myworkspace.fr](mailto:damien-foulon@myworkspace.fr)
 *   🚀  I'm currently working on [Devausorus](http://devausorus.com)
 *   🧠  I'm learning React JS
