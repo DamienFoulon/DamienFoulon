@@ -43,16 +43,19 @@ J'ai commencé à apprendre la programmation il y a 7 ans, en commençant par la
         <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> 
         </a>
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+        </a>
     </p>
 
 
 ### Badges
 
 <b>My GitHub Stats</b>
-<p><a href="https://wakatime.com/@DamienFoulon"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=DamienFoulon&langs_count=5&amp;&theme=graywhite" alt="Damien&#39;s wakatime stats"></a></p>
+<p><a href="https://wakatime.com/@Yaguaa"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yaguaa&langs_count=5&amp;&theme=graywhite" alt="Damien&#39;s wakatime stats"></a></p>
 
 <a href="https://github.com/DamienFoulon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamienFoulon&theme=graywhite&langs_count=10&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/DamienFoulon/website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DamienFoulon&repo=website&theme=graywhite&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/DamienFoulon/paresport" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DamienFoulon&repo=paresport&theme=graywhite&locale=fr" /></a></div><br /><br /><br /><br /><br /><br /><br />
